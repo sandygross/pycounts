@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_sandy"
 copyright = u"2024, Sandra Gross"
 author = u"Sandra Gross"
 

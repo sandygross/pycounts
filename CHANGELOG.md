@@ -4,4 +4,4 @@
 
 ## v0.1.0 (08/01/2024)
 
-- First release of `pycounts`!
+- First release of `pycounts_sandy`!
